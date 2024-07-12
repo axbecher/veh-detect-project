@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Vehicle Detect Project
 
@@ -77,6 +76,3 @@ Image.fromarray(closing)
 ## Conclusion
 
 This simple project demonstrates the steps to preprocess an image for vehicle detection using OpenCV. The main steps include converting the image to grayscale, applying Gaussian blur, dilating the image, and performing morphological transformations. These preprocessing steps help to enhance the features of the vehicles, making them easier to detect.
-=======
-...
->>>>>>> 86fcfd78724d0dd47e4c1fa7e3bf3e173ec23af1
